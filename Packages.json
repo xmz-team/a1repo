@@ -1,0 +1,91 @@
+[
+  {
+    "package": "ModuleTutorial.io.github.xmz-team",
+    "name": "A1模块制作教程",
+    "version": "1.0.0",
+    "architecture": "all",
+    "maintainer": "XMZ",
+    "author": "XMZ",
+    "target": "all",
+    "description": [
+      "A1模块制作的教程",
+      "包含元数据文件编写、目录结构规范、",
+      "适合初学者快速上手A1模块开发"
+    ],
+    "depends": [],
+    "depends_apt": [
+      "bash",
+      "zip",
+      "unzip"
+    ],
+    "filename": "ModuleTutorial.io.github.xmz-team_XMZ_all.a1module.zip",
+    "size": 8267,
+    "sha256": "191208c735308e0474ad752a87658b8edc3bcc209c6905b60c806ba0dc96708a",
+    "section": "development",
+    "priority": "optional",
+    "homepage": "",
+    "update_log": [
+      "1.0.0 - 添加教程内容"
+    ]
+  },
+  {
+    "package": "official.a1.example.module",
+    "name": "A1模塊的一點介紹",
+    "version": "0.3",
+    "architecture": "all",
+    "maintainer": "AD",
+    "author": "AD",
+    "target": "all",
+    "description": [
+      "前言:",
+      "A1的官方示例模塊",
+      "讓A1的模塊開發者可以快速上手製作data.json(元數據文件),具體請前往本模塊目錄中查看,通常目錄是: a1.expand/official/AD/",
+      "簡述:",
+      "A1模塊的元數據文件有兩種格式",
+      "第一種ini格式,適用於想要快速開發但是不想寫/不知道怎麼寫json的",
+      "第二種json格式,當學會會便可以嘗試使用json來寫元數據文件",
+      "補充:",
+      "在示例json格式文件中, `/* */`是注釋不需要被包含進去",
+      "在示例ini格式文件中有`#`的那一行為注釋不需要被包含進去",
+      "注意:元數據文件不能包含注釋"
+    ],
+    "depends": [],
+    "depends_apt": [],
+    "filename": "official.a1.example.module_AD_all.a1module.zip",
+    "size": 2370,
+    "sha256": "62672cdf24deeae5a3d9de9e16bc47e8f1806f5612c2502c5ed9ed489b7298df",
+    "section": "unknown",
+    "priority": "optional",
+    "homepage": "",
+    "update_log": [
+      "0.3 - 更新了日誌示例",
+      "0.2 - 修復了示例元數據文件的問題",
+      "0.1 - 初始版本"
+    ]
+  },
+  {
+    "package": "official.a1.sync.kernel.module",
+    "name": "內核參數擴展模塊",
+    "version": "1.1",
+    "architecture": "all",
+    "maintainer": "AD",
+    "author": "AD",
+    "target": "a1",
+    "description": [
+      "給A1添加更多豐富的內核參數調整",
+      "致謝: 飘散的烟(QQ: 479011600)"
+    ],
+    "depends": [],
+    "depends_apt": [],
+    "filename": "official.a1.sync.kernel.module_AD_a1.a1module.zip",
+    "size": 2180,
+    "sha256": "0a1904bf86379789e7f92fdf984a82c58101f9f8e896cfc3785216052b64da35",
+    "section": "unknown",
+    "priority": "optional",
+    "homepage": "",
+    "update_log": [
+      "1.1 - A1擴展模組回歸,本項目重啟,適配A1的新模塊邏輯",
+      "1.0 - 初始版本,感謝飘散的烟(QQ: 479011600)的內核參數命令"
+    ]
+  }
+]

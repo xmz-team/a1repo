@@ -1,0 +1,8 @@
+{
+  "name": "XMZ-Team's Repo",
+  "url": "https://xmz-team.github.io/a1repo",
+  "maintainer": "XMZ-Team <xmz-team@outlook.com>",
+  "description": "A1 Repo of XMZ-Team",
+  "version": "1.0",
+  "modules": "Packages.json"
+}
