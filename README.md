@@ -1,2 +1,2 @@
 # a1repo
-this repo of a1 mod
+this is repo of a1 mod
