@@ -19,6 +19,7 @@
       "unzip"
     ],
     "filename": "ModuleTutorial.io.github.xmz-team_XMZ_all.a1module.zip",
+    "FilePath": "a1mod/ModuleTutorial.io.github.xmz-team_XMZ_all.a1module.zip",
     "size": 8267,
     "sha256": "191208c735308e0474ad752a87658b8edc3bcc209c6905b60c806ba0dc96708a",
     "section": "development",
@@ -52,6 +53,7 @@
     "depends": [],
     "depends_apt": [],
     "filename": "official.a1.example.module_AD_all.a1module.zip",
+    "FilePath": "a1mod/official.a1.example.module_AD_all.a1module.zip",
     "size": 2370,
     "sha256": "62672cdf24deeae5a3d9de9e16bc47e8f1806f5612c2502c5ed9ed489b7298df",
     "section": "unknown",
@@ -78,6 +80,7 @@
     "depends": [],
     "depends_apt": [],
     "filename": "official.a1.sync.kernel.module_AD_a1.a1module.zip",
+    "FilePath": "a1mod/official.a1.sync.kernel.module_AD_a1.a1module.zip",
     "size": 2180,
     "sha256": "0a1904bf86379789e7f92fdf984a82c58101f9f8e896cfc3785216052b64da35",
     "section": "unknown",
